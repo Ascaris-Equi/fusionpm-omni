@@ -1,10 +1,6 @@
 # fusionpm-omni
 ✨ fusionpm-omni: A versatile MHC-peptide binding prediction framework supporting diverse species (including human, rhesus macaque, chimpanzee, mouse, dog, pig, horse, and more) and compatible with both MHC class I &amp; II via pseudo-sequence extraction.
 
-# fusionpm-omni
-
-**fusionpm-omni** is a universal framework for peptide-MHC binding prediction, supporting diverse species (human, rhesus macaque, chimpanzee, mouse, dog, pig, horse, etc.) and both MHC class I & II via pseudo-sequence extraction.
-
 ## Installation
 
     pip install torch pandas numpy
